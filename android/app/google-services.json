@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1060176692044",
+    "firebase_url": "https://mother-nature-b6bd7.firebaseio.com",
+    "project_id": "mother-nature-b6bd7",
+    "storage_bucket": "mother-nature-b6bd7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060176692044:android:40440ec90ae83614e3c5e9",
+        "android_client_info": {
+          "package_name": "com.shivkumarkonade.natureclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060176692044-65nb3k21iggeo43va2oegujl7djkapbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivkumarkonade.natureclinic",
+            "certificate_hash": "a46ed6bf3d4cd4a9bd86790918516626e62f6dc6"
+          }
+        },
+        {
+          "client_id": "1060176692044-1f7cspqorangli3q9c62blusq4bfcdmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060176692044-1f7cspqorangli3q9c62blusq4bfcdmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
